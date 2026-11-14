@@ -2,4 +2,4 @@
 :HL["https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@125,900&family=Noto+Sans+JP:wght@500;700;900&display=swap","style"]
 :HL["/unicornquiz-support/img/icon.png","image"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"YSdh_tE4yU_T7DE39o5cO","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"aZXNB0fkTcb_xVkrFSJ3o","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
