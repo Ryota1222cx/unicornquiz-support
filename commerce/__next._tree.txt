@@ -1,0 +1,6 @@
+:HL["/unicornquiz-support/_next/static/chunks/14knbjnxd0lnm.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@125,900&family=Noto+Sans+JP:wght@500;700;900&display=swap","style"]
+:HL["/unicornquiz-support/img/icon.png","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"commerce","h":96,"c":"$Q2"}]]
+0:{"b":"YSdh_tE4yU_T7DE39o5cO","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

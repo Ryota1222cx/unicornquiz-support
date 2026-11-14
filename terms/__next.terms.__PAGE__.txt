@@ -1,0 +1,49 @@
+1:"$Sreact.fragment"
+2:"/unicornquiz-support/_next/static/chunks/2kl8l2e0ln__z.js"
+3:I[40618,["$2"],"StoreButtons"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+:HL["/unicornquiz-support/_next/static/chunks/14knbjnxd0lnm.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@125,900&family=Noto+Sans+JP:wght@500;700;900&display=swap","style"]
+:HL["/unicornquiz-support/img/icon.png","image"]
+9:X
+d:X
+d:C
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":"$Lf","p":"$@10","v":null,"s":"$9"}}]]
+a:[["children",{"s":"terms","h":96,"d":{"r":"$Lb","p":"$@c","v":"$d","s":"$9"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/unicornquiz-support/_next/static/chunks/14knbjnxd0lnm.css","precedence":"next"}],["$","script","script-0",{"src":"/unicornquiz-support/_next/static/chunks/2kl8l2e0ln__z.js","async":true}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":""}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@125,900&family=Noto+Sans+JP:wght@500;700;900&display=swap"}]]}],["$","body",null,{"className":"antialiased","children":[["$","header",null,{"className":"fixed inset-x-3 top-3 z-50 mx-auto max-w-4xl rounded-xl border-2 border-ink bg-white/92 shadow-[4px_4px_0_var(--color-ink)] backdrop-blur-md","children":["$","div",null,{"className":"flex h-13 items-center justify-between py-1.5 pl-2.5 pr-2","children":[["$","a",null,{"href":"/unicornquiz-support/","className":"latin flex items-center gap-2.5 text-[16px]","children":[["$","img",null,{"src":"/unicornquiz-support/img/icon.png","alt":"","width":34,"height":34,"className":"rounded-lg"}],"Unicorn Quiz"]}],["$","nav",null,{"className":"flex items-center gap-6","children":[[["$","a","/#how",{"href":"/unicornquiz-support/#how","className":"hidden text-[13.5px] font-bold underline-offset-4 hover:underline md:block","children":"使い方"}],["$","a","/#features",{"href":"/unicornquiz-support/#features","className":"hidden text-[13.5px] font-bold underline-offset-4 hover:underline md:block","children":"中身"}],["$","a","/#price",{"href":"/unicornquiz-support/#price","className":"hidden text-[13.5px] font-bold underline-offset-4 hover:underline md:block","children":"料金"}],["$","a","/#faq",{"href":"/unicornquiz-support/#faq","className":"hidden text-[13.5px] font-bold underline-offset-4 hover:underline md:block","children":"よくある質問"}]],["$","$L3",null,{"compact":true}]]}]]}]}],["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","footer",null,{"className":"overflow-hidden bg-navy text-white","children":[["$","div",null,{"className":"mx-auto max-w-7xl px-5 pt-14 text-sm md:px-8","children":[["$","ul",null,{"className":"flex flex-wrap gap-x-7 gap-y-2 font-bold","children":[["$","li",null,{"children":["$","a",null,{"href":"/unicornquiz-support/","className":"underline-offset-4 hover:underline","children":["Unicorn Quiz","について"]}]}],[["$","li","/support",{"children":["$","a",null,{"href":"/unicornquiz-support/support.html","className":"underline-offset-4 hover:underline","children":"サポート"}]}],["$","li","/terms",{"children":["$","a",null,{"href":"/unicornquiz-support/terms.html","className":"underline-offset-4 hover:underline","children":"利用規約"}]}],["$","li","/privacy",{"children":["$","a",null,{"href":"/unicornquiz-support/privacy.html","className":"underline-offset-4 hover:underline","children":"プライバシーポリシー"}]}],["$","li","/commerce",{"children":["$","a",null,{"href":"/unicornquiz-support/commerce.html","className":"underline-offset-4 hover:underline","children":"販売事業者の表記"}]}]]]}],"$L6"]}],"$L7"]}]]}]]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":"$L11","p":"$@12","v":null,"s":"$9"}},"a":"$@13","u":"$@14","b":"YSdh_tE4yU_T7DE39o5cO"}
+16:I[97367,["$2"],"OutletBoundary"]
+17:"$Sreact.suspense"
+19:"ViewportBoundary"
+1a:I[97367,["$2"],"$19"]
+1b:"MetadataBoundary"
+1c:I[97367,["$2"],"$1b"]
+1d:I[27201,["$2"],"IconMark"]
+6:["$","p",null,{"className":"mt-5 text-[13px] text-white/60","children":["© 2026 ","Ryota Masuda"]}]
+7:["$","p",null,{"aria-hidden":true,"className":"latin -mb-[0.2em] mt-8 select-none whitespace-nowrap text-center text-[10.4vw] leading-none text-horn","children":"Unicorn Quiz"}]
+b:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}]
+15:Ta0f,<p>この規約は、運営者 Ryota Masuda が提供する学習アプリ Unicorn Quiz(以下「本アプリ」)の使い方を定めます。本アプリを使うと、この規約に同意したものとします。</p>
+<h2>1. 使えること</h2>
+<p>本アプリは、経営の考え方を問いで学びます。無料で使えるのは、どの講座も最初の2レッスン、そのレッスンが入っているユニットの物語、きょうの1件、間違えた問いの復習です。アプリの中の点数(会社の評価額)は、無料のままではシリーズAで止まります。全7講座と物語のすべて、仕上げの練習は、購読の登録中に使えます。1講座だけの買い切りもあります。買い切った講座は、レッスン、仕上げの練習、その科目の物語を期限なく使えます。</p>
+<h2>2. 購読</h2>
+<p>購読は自動で更新されます。価格と期間、無料で試せる日数は、アプリの中の購入の画面に表示されます。期間が終わる24時間前までに iPhone の「設定」から自動更新を止めない限り、同じ期間で更新され、Apple アカウントに請求されます。無料で試せる期間が残っていても、購読を始めた時点でその分は使えなくなることがあります。解約と返金は Apple の定めに従います。</p>
+<h2>3. 内容について</h2>
+<p>本アプリの問いと物語は、公開された報道と会社の発表をもとに作っています。出典は物語ごとに示します。経営の判断、投資の判断、法律や税務の助言として作ったものではありません。実際の判断は、ご自身で、必要に応じて専門家に相談のうえ行ってください。内容に誤りを見つけたときは、下の連絡先へお知らせください。</p>
+<h2>4. 禁じること</h2>
+<p>本アプリの問い、解説、物語の本文を、運営者の許可なく複製して配ること、販売すること、機械で取り出して別のサービスに使うことを禁じます。</p>
+<h2>5. 責任の範囲</h2>
+<p>本アプリの内容と動作に不具合があったとき、運営者の責任は、その不具合が起きた期間に受け取った購読の料金を上限とします。</p>
+<h2>6. 規約の変更</h2>
+<p>この規約を変えるときは、このページを書き換え、本アプリの更新でお知らせします。</p>
+<h2>7. 連絡先</h2>
+<p><a href="mailto:m.ryota1222@gmail.com">m.ryota1222@gmail.com</a></p>f:["$","$1","c",{"children":[["$","main",null,{"className":"mx-auto max-w-3xl px-5 pb-24 pt-32","children":[["$","h1",null,{"className":"text-[clamp(28px,6vw,42px)] font-black leading-snug tracking-[-0.01em]","children":"利用規約"}],["$","div",null,{"className":"legal mt-8","dangerouslySetInnerHTML":{"__html":"$15"}}],["$","p",null,{"className":"mt-12 border-t-2 border-ink pt-5 text-sm text-soft","children":"制定 2026年10月14日"}]]}],null,["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]]}]
+11:["$","$1","h",{"children":[null,["$","$L1a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"利用規約 : Unicorn Quiz"}],["$","meta","1",{"name":"description","content":"Unicorn Quiz の利用規約です。"}],["$","meta","2",{"name":"application-name","content":"Unicorn Quiz"}],["$","meta","3",{"property":"og:title","content":"Unicorn Quiz : MBAの理論を問題で理解し、スタートアップの実話で身につける"}],["$","meta","4",{"property":"og:description","content":"MBAの7科目を、1日5問の問題と、実在のスタートアップが危機に直面した物語94本で学ぶアプリです。日本語でも英語でも耳で聞けます。iPhone と Android に対応。"}],["$","meta","5",{"property":"og:url","content":"https://ryota1222cx.github.io/unicornquiz-support"}],["$","meta","6",{"property":"og:site_name","content":"Unicorn Quiz"}],["$","meta","7",{"property":"og:locale","content":"ja_JP"}],["$","meta","8",{"property":"og:image","content":"https://ryota1222cx.github.io/unicornquiz-support/img/og.png"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"property":"og:image:alt","content":"Unicorn Quiz : MBAの理論を問題で理解し、スタートアップの実話で身につける"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Unicorn Quiz : MBAの理論を問題で理解し、スタートアップの実話で身につける"}],["$","meta","15",{"name":"twitter:description","content":"MBAの7科目を、1日5問の問題と、実在のスタートアップが危機に直面した物語94本で学ぶアプリです。日本語でも英語でも耳で聞けます。iPhone と Android に対応。"}],["$","meta","16",{"name":"twitter:image","content":"https://ryota1222cx.github.io/unicornquiz-support/img/og.png"}],["$","link","17",{"rel":"icon","href":"/unicornquiz-support/img/icon.png"}],["$","link","18",{"rel":"apple-touch-icon","href":"/unicornquiz-support/img/icon.png"}],["$","$L1d","19",{}]]}]}],null]}],null]}]
+18:null
+14:true
+9:300
+9:C
+13:0
+c:"$undefined"
+12:"$undefined"
+10:"$undefined"
+8:"$undefined"
